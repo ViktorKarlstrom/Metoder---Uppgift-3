@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -14,6 +15,12 @@ namespace Metoder___Uppgift_3
 
         static void Main(string[] args)
         {
+        }
+
+        static string ReturnString(string text, string text2)
+        {
+            
+            
         }
     }
 }

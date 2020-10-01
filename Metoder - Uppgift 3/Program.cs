@@ -17,6 +17,7 @@ namespace Metoder___Uppgift_3
         {
             Console.WriteLine(ReturnString("hej", "då"));
             string x = "abc";
+            x = "def";
         }
 
         static string ReturnString(string text, string text2)

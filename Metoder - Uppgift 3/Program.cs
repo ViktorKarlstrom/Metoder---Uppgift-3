@@ -15,6 +15,7 @@ namespace Metoder___Uppgift_3
 
         static void Main(string[] args)
         {
+            Console.WriteLine(ReturnString("hej", "då"));
         }
 
         static string ReturnString(string text, string text2)

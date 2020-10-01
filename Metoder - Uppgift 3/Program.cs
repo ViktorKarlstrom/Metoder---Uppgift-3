@@ -19,6 +19,7 @@ namespace Metoder___Uppgift_3
             string x = "abc";
             x = "def";
             int i = 12345;
+            i = 678;
         }
 
         static string ReturnString(string text, string text2)

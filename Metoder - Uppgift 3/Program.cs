@@ -19,7 +19,9 @@ namespace Metoder___Uppgift_3
 
         static string ReturnString(string text, string text2)
         {
-            
+            string fullText = text + text2;
+
+            return fullText;
             
         }
     }

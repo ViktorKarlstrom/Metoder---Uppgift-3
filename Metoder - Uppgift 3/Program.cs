@@ -18,6 +18,7 @@ namespace Metoder___Uppgift_3
             Console.WriteLine(ReturnString("hej", "då"));
             string x = "abc";
             x = "def";
+            int i = 12345;
         }
 
         static string ReturnString(string text, string text2)
